@@ -1,0 +1,6 @@
+public class Demo12{
+	public static void main(String[] args){
+		int[] first = {10,20,30,40,50}
+		System.out.println(first);
+	}
+}
